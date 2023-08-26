@@ -1,6 +1,6 @@
 # kNN-algorithm
 
-# **Project Titel**: 
+# **Project Title**: 
 Make the prediction for "iris.csv" using kNN algorithm to find value of x for supervised learning.
 # **Project Approach**:
 ![image](https://github.com/Yokeshkumar28/kNN-algorithm/assets/130818416/5ff680d1-9449-448f-8985-a08b80191c72)
